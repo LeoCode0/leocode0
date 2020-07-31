@@ -1,4 +1,4 @@
-<h2>I'm Leonardo Espinoza!/h2>
+<h2>I'm Leonardo Espinoza!</h2>
 <p><em>Frontend Developer</em></p>
 
 ```JS
