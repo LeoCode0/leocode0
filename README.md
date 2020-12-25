@@ -4,7 +4,7 @@
 ```JS
 const LeoCode0 = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "html", "css", "React"],
+    code: ["Javascript", "Next JS", "html", "css", "React", "styled-components"],
     askMeAbout: ["web dev", "tech"],
 };
 ```
